@@ -10,5 +10,5 @@ setup(
             "powerbi-embedded-sample = powerbi_embedded_sample.main:main"
         ]
     },
-    install_requires=[],
+    install_requires=["adal==1.1.0", "sanic==0.7.0", "Jinja2==2.10"],
 )
