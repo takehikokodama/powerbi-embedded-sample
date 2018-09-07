@@ -1,0 +1,16 @@
+/lib/python*
+/lib64
+/bin
+/__pycache__
+/include
+/env
+src/*.egg-info
+node_modules/
+.idea/
+.Python
+.envrc
+pip-selfcheck.json
+*.swp
+*.swo
+*.pyc
+.vscode/
